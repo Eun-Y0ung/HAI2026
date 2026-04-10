@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "mcp__plugin_bkit_bkit-pdca__bkit_pdca_status",
-      "mcp__plugin_bkit_bkit-pdca__bkit_feature_detail",
-      "Skill(bkit:pdca)"
-    ]
-  }
-}
